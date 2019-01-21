@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/3.6.3/workbox-sw.js");
 
 importScripts(
-  "/SEKO/precache-manifest.8d57bd4caeb21f3cf4bdce324c302502.js"
+  "/SEKO/precache-manifest.1412ceda356285f736ac24c7b06dfe1f.js"
 );
 
 workbox.clientsClaim();

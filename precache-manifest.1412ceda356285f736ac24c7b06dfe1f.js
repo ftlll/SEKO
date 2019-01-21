@@ -4,8 +4,8 @@ self.__precacheManifest = [
     "url": "/SEKO/static/media/NR8206.244466ee.jpg"
   },
   {
-    "revision": "7cf3ee03123ea44fc8fa",
-    "url": "/SEKO/static/css/main.6ffd4f0e.chunk.css"
+    "revision": "e445414a0a40ebe79b16",
+    "url": "/SEKO/static/css/main.27ba0b9a.chunk.css"
   },
   {
     "revision": "b785341da034e7552625",
@@ -216,8 +216,8 @@ self.__precacheManifest = [
     "url": "/SEKO/static/media/NR8205.32cf6c99.jpg"
   },
   {
-    "revision": "7cf3ee03123ea44fc8fa",
-    "url": "/SEKO/static/js/main.7cf3ee03.chunk.js"
+    "revision": "e445414a0a40ebe79b16",
+    "url": "/SEKO/static/js/main.e445414a.chunk.js"
   },
   {
     "revision": "6cd175d43a057cdee8a843f52a50def9",
@@ -428,7 +428,7 @@ self.__precacheManifest = [
     "url": "/SEKO/static/media/company.5b569aba.jpg"
   },
   {
-    "revision": "ab36eb5df021d916af3da41945a186e9",
+    "revision": "73b0275df58ef38ec9edbbbb94047b6a",
     "url": "/SEKO/index.html"
   }
 ];
